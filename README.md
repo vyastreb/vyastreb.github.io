@@ -12,10 +12,12 @@
     <p>Vladislav Yastrebov</p>
 </div>
 
-### 🧑‍💻 Language statistics
+<h1>🧑‍💻 Language statistics</h1>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vyastreb&layout=compact)](https://github.com/vyastreb/github-readme-stats)
 
-### 🔥 GitHub Streak Stats
+<h1>🔥 GitHub Streak Stats</h1>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vyastreb&theme=dark)](https://git.io/streak-stats)
 
 </body>
