@@ -12,5 +12,7 @@
     <p>Vladislav Yastrebov</p>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vyastreb&layout=compact)](https://github.com/vyastreb/github-readme-stats)
+
 </body>
 </html>
