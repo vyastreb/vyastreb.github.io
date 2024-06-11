@@ -16,6 +16,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vyastreb&layout=compact)](https://github.com/vyastreb/github-readme-stats)
 
+<a href="[https://git.io/streak-stats](https://github.com/vyastreb/github-readme-stats)">
+  <img src="[https://streak-stats.demolab.com/?user=vyastreb&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=vyastreb&layout=compact)" alt="Top Langs">
+</a>
+
 <h1>🔥 GitHub Streak Stats</h1>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vyastreb&theme=dark)](https://git.io/streak-stats)
@@ -23,6 +27,7 @@
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com/?user=vyastreb&theme=dark" alt="GitHub Streak">
 </a>
+La-la-la
 
 </body>
 </html>
