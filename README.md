@@ -20,5 +20,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vyastreb&theme=dark)](https://git.io/streak-stats)
 
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=vyastreb&theme=dark" alt="GitHub Streak">
+</a>
+
 </body>
 </html>
