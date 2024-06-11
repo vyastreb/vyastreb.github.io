@@ -5,17 +5,6 @@
     <title>GitHub Profile Header</title>
     <link rel="stylesheet" href="styles.css">
 
-<link
-  rel="stylesheet"
-  href="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.css"
-/>
-<script
-  src="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.min.js"
->
-    new GitHubCalendar(".calendar", "vyastreb");
-</script>
-
-
 </head>
 
     
