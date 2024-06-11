@@ -29,13 +29,7 @@
 <h1>📈 GitHub Activity</h1>
 
 
-
-<!-- Prepare a container for your calendar. -->
-<div class="calendar">
-    Bla-bla
-</div>
-
-
+<img src="http://ghchart.rshah.org/vyastreb" alt="Github chart" />
 
 
 <h1>🧑‍💻 Language statistics</h1>
