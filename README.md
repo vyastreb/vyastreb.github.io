@@ -22,10 +22,10 @@
 
 <h1>🔥 GitHub Streak Stats</h1>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vyastreb&theme=dark)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vyastreb&theme=dark)](https://git.io/streak-stats)-->
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=vyastreb&theme=dark" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=vyastreb&theme=ocean-gradient	" alt="GitHub Streak">
 </a>
 La-la-la
 
